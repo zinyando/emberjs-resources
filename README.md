@@ -1,4 +1,4 @@
-# emberjs-resources
+# A List of Ember.js Resources
 
 ## Core
 
@@ -14,14 +14,22 @@
 * [programwitherik](http://www.programwitherik.com/)
 * [Dockyard Blog](https://dockyard.com/blog)
 * [Balint Erdi's Blog](https://balinterdi.com)
+* [Karol Galanciak's Blog](https://karolgalanciak.com/blog/)
+* [Ember Igniter](https://emberigniter.com/)
+* [Matthew Beale's](http://madhatted.com/)
+* [EmberSherpa Blog](blog.embersherpa.com)
+* [EmberMap Blog]((blog.embermap.com))
 
 ## Tutorials
 
 * [Yoember](http://yoember.com/)
+* [Build Pacman](http://www.jeffreybiles.com/build-pacman)
 
-## Videos
+## Screencasts
 
 * [EmberMap](https://embermap.com/)
+* [Ember Screencasts](https://www.emberscreencasts.com/)
+* [Ember School](https://www.emberschool.com/)
 
 ## Podcasts
 
