@@ -2,37 +2,37 @@
 
 ## Core
 
-http://emberjs.com
-http://discuss.emberjs.com/
-http://emberjs.com/blog/
-http://stackoverflow.com/questions/tagged/ember.js
-https://embercommunity.slack.com/
+* [Official Ember.js Website](http://emberjs.com)
+* [Discussion forum](http://discuss.emberjs.com/)
+* [Official Ember.js Blog](http://emberjs.com/blog/)
+* [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js)
+* [Ember Community Slack](https://embercommunity.slack.com/)
 
 ## Blogs
 
-https://emberway.io
-http://www.programwitherik.com/
-https://dockyard.com/blog
-https://balinterdi.com
+* [EmberWay](https://emberway.io)
+* [programwitherik](http://www.programwitherik.com/)
+* [Dockyard Blog](https://dockyard.com/blog)
+* [Balint Erdi's Blog](https://balinterdi.com)
 
 ## Tutorials
 
-http://yoember.com/
+* [Yoember](http://yoember.com/)
 
 ## Videos
 
-https://embermap.com/
+* [EmberMap](https://embermap.com/)
 
 ## Podcasts
 
-https://emberweekend.com
+* [Ember Weekend](https://emberweekend.com)
 
 ## Books
 
-https://leanpub.com/ember-cli-101
-https://balinterdi.com/rock-and-roll-with-emberjs/
+* [Ember CLI 101](https://leanpub.com/ember-cli-101)
+* [Rock and Roll with Ember.js](https://balinterdi.com/rock-and-roll-with-emberjs/)
 
 ## Addon Search
 
-https://emberobserver.com/
-https://www.emberaddons.com/
+* [Ember Observer](https://emberobserver.com/)
+* [Ember Addons](https://www.emberaddons.com/)
