@@ -19,6 +19,7 @@
 * [Matthew Beale's](http://madhatted.com/)
 * [EmberSherpa Blog](blog.embersherpa.com)
 * [EmberMap Blog]((blog.embermap.com))
+* [The JS Guy](http://thejsguy.com/)
 
 ## Tutorials
 
